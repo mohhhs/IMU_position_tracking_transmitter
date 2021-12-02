@@ -20,9 +20,11 @@ Build: 9029_20201210_1234 (UTC)
 ## Authors
 
 Mohamed Yehia Ahmed Abdalla
+
 Email: mohhhs@gmail.com
 
 ## Acknowledgments
 
 Dr. Lucas Koerner
+
 Email: Koerner.lucas@stthomas.edu
