@@ -1,0 +1,11 @@
+.settings
+Debug
+Drivers
+Startup
+.cproject
+.mxproject
+.project
+BMI-160-3.elf.launch
+BMI-160-3.ioc
+STM32F746ZGTX_FLASH.ld
+STM32F746ZGTX_RAM.ld
