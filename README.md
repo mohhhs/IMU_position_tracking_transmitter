@@ -14,7 +14,7 @@ Microcontroller side
 
 STM32CubeIDE
 
-Version: 1.5.1
+Version: 1.5.1, 
 Build: 9029_20201210_1234 (UTC)
 
 ## Authors
